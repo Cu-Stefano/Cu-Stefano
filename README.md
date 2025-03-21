@@ -34,13 +34,12 @@ A small strategy game prototype inspired by the Fire Emblem series, developed us
 
 📷 Screenshots:
 
-<img src="https://github.com/user-attachments/assets/0570223d-1c30-4500-85b2-5fcb564a5ff0" width="1000" height="auto">
-<img src="https://github.com/user-attachments/assets/dc24763b-8052-4f65-96aa-b1d471e64f1b" width="600" height="auto">
-<img src="https://github.com/user-attachments/assets/54204721-a5c0-4b36-a421-789390a89568" width="1000" height="auto">
+<img src="https://github.com/user-attachments/assets/55ccbca7-1336-4d7b-b666-978953d87f66" width="1000" height="auto">
+<img src="https://github.com/user-attachments/assets/e3a95693-f7a2-4acd-b256-29dbe6f336ef" width="600" height="auto">
+<img src="https://github.com/user-attachments/assets/4ea3eb05-32a0-4167-9724-7c2cc28a7e13" width="1000" height="auto">
 
 📫 Contact
 
 🔗 Email: stefanonae7@gmail.com🔗
 
 Thank you for visiting my profile!
-
