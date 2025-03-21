@@ -1,6 +1,6 @@
 💻 Welcome to My GitHub Profile!
 
-Hi! I am a Computer Science student with a strong passion for Interactive apps.
+Hi! I am a computer science student with a strong passion for developing interactive apps.
 
 📌 Projects:
 
@@ -8,7 +8,7 @@ Hi! I am a Computer Science student with a strong passion for Interactive apps.
 
 A web application dedicated to tracking macronutrients,
 
-🔹 Technologies Used: HTML, CSS, JavaScript, React
+🔹 Technologies Used: HTML, CSS, JavaScript
 
 🔹 Features:
 - Interactive calendar for selecting days
@@ -31,6 +31,7 @@ A small strategy game prototype inspired by the Fire Emblem series, developed us
 - Grid-based unit movement
 - Turn-based combat system
 - Game interface displaying unit stats, attacks, and other relevant information
+- Basic Enemy Ai
 
 📷 Screenshots:
 
