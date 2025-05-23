@@ -41,7 +41,8 @@ A small strategy game prototype inspired by the Fire Emblem series, developed us
 
 
 
-Another tactics game, a simpler version of the other but with more attention to graphics : 
+Another tactics game, a simpler version of the other but with more attention to graphics 
+(only the ui is made by me, the other sprites are from :https://mattwalkden.itch.io/fantasy-battle-pack): 
 
 
 🔹 Technologies Used: C++, SFML library
