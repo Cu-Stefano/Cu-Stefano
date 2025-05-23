@@ -1,4 +1,4 @@
-![Video senza titolo - Realizzato con Clipchamp](https://github.com/user-attachments/assets/ee3a71cb-62b2-49cf-8042-d0139be68af9)💻 Welcome to My GitHub Profile!
+💻 Welcome to My GitHub Profile!
 
 Hi! I am a computer science student with a strong passion for developing interactive apps.
 
