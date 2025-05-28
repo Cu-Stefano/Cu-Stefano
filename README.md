@@ -6,7 +6,7 @@ Hi! I am a computer science student with a strong passion for developing interac
 
 🥗 Macro Tracker
 
-A web application dedicated to tracking macronutrients (visisible at https://saw.dibris.unige.it/~s5597417/index.php),
+A web application dedicated to tracking macronutrients made for a university project (visisible at https://saw.dibris.unige.it/~s5597417/index.php),
 
 🔹 Technologies Used: HTML, CSS, JavaScript
 
@@ -43,7 +43,7 @@ A small strategy game prototype inspired by the Fire Emblem series, developed us
 
 
 
-Another tactics game, a simpler version of the other but with more attention to graphics 
+Another tactics game, a simpler version of the other but with more attention to graphics also made for a university project
 (only the ui is made by me, the other sprites are from :https://mattwalkden.itch.io/fantasy-battle-pack): 
 
 
